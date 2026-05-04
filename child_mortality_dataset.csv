@@ -1,0 +1,301 @@
+Record_ID,Country,Region,Child_Age_Months,Gender,Birth_Weight_kg,Mother_Age,Immunization_Status,Nutrition_Status,Cause_of_Death,Death_Date
+1,India,Rural,44,Male,1.52,31,Partially Immunized,Severe Malnutrition,Prematurity,2023-11-28
+2,Kenya,Rural,29,Male,2.91,27,Not Immunized,Moderate Malnutrition,Malaria,2023-03-12
+3,Brazil,Rural,38,Female,3.35,18,Not Immunized,Normal,Pneumonia,2023-04-13
+4,Brazil,Rural,40,Female,3.14,32,Not Immunized,Severe Malnutrition,Prematurity,2023-08-17
+5,Bangladesh,Rural,48,Male,2.79,21,Fully Immunized,Normal,Pneumonia,2023-11-11
+6,Kenya,Urban,0,Male,2.36,29,Fully Immunized,Normal,Other,2023-10-10
+7,India,Rural,40,Female,1.63,25,Not Immunized,Severe Malnutrition,Pneumonia,2023-12-09
+8,Brazil,Urban,9,Female,2.87,27,Not Immunized,Moderate Malnutrition,Other,2023-05-09
+9,Bangladesh,Urban,37,Male,3.73,28,Fully Immunized,Severe Malnutrition,Malaria,2023-05-13
+10,Nigeria,Urban,37,Male,1.83,30,Partially Immunized,Normal,Malaria,2023-12-12
+11,Kenya,Rural,22,Female,3.15,40,Not Immunized,Moderate Malnutrition,Malaria,2023-03-13
+12,India,Urban,34,Male,3.33,19,Not Immunized,Normal,Diarrhea,2023-08-23
+13,India,Urban,49,Female,1.82,24,Not Immunized,Normal,Prematurity,2023-07-10
+14,Bangladesh,Urban,40,Female,2.4,25,Not Immunized,Normal,Prematurity,2023-03-14
+15,India,Urban,48,Female,3.72,21,Partially Immunized,Normal,Diarrhea,2023-05-11
+16,Bangladesh,Urban,25,Female,2.59,19,Partially Immunized,Moderate Malnutrition,Diarrhea,2023-12-25
+17,India,Rural,30,Female,2.05,34,Not Immunized,Moderate Malnutrition,Pneumonia,2023-07-06
+18,India,Urban,52,Male,3.43,34,Partially Immunized,Normal,Prematurity,2023-07-05
+19,Nigeria,Urban,22,Male,1.98,40,Partially Immunized,Severe Malnutrition,Other,2023-05-16
+20,Brazil,Urban,48,Female,3.94,31,Not Immunized,Moderate Malnutrition,Pneumonia,2023-04-20
+21,Bangladesh,Urban,1,Female,3.63,23,Partially Immunized,Severe Malnutrition,Other,2023-06-29
+22,Bangladesh,Rural,3,Male,1.79,24,Not Immunized,Moderate Malnutrition,Prematurity,2023-12-30
+23,Bangladesh,Urban,58,Female,3.96,28,Fully Immunized,Severe Malnutrition,Malaria,2023-06-14
+24,India,Rural,19,Female,1.83,34,Partially Immunized,Moderate Malnutrition,Pneumonia,2023-05-16
+25,India,Rural,10,Female,2.3,34,Not Immunized,Moderate Malnutrition,Pneumonia,2023-08-16
+26,Kenya,Urban,42,Female,3.72,30,Not Immunized,Severe Malnutrition,Prematurity,2023-04-02
+27,Nigeria,Urban,37,Female,2.98,21,Not Immunized,Moderate Malnutrition,Diarrhea,2023-10-15
+28,Bangladesh,Rural,21,Male,1.7,27,Partially Immunized,Normal,Prematurity,2023-05-16
+29,India,Urban,8,Male,1.59,21,Partially Immunized,Normal,Prematurity,2023-05-31
+30,Nigeria,Rural,4,Female,2.17,29,Partially Immunized,Normal,Prematurity,2023-08-29
+31,India,Rural,27,Female,2.69,18,Fully Immunized,Moderate Malnutrition,Other,2023-12-16
+32,Brazil,Rural,50,Female,2.37,32,Not Immunized,Severe Malnutrition,Malaria,2023-05-24
+33,Brazil,Urban,6,Female,3.28,33,Partially Immunized,Moderate Malnutrition,Other,2023-08-31
+34,Bangladesh,Urban,43,Female,1.9,36,Fully Immunized,Moderate Malnutrition,Prematurity,2023-10-21
+35,Bangladesh,Urban,19,Female,3.09,31,Fully Immunized,Severe Malnutrition,Other,2023-02-05
+36,Nigeria,Urban,21,Male,3.5,37,Fully Immunized,Moderate Malnutrition,Other,2023-08-22
+37,Bangladesh,Rural,3,Male,2.62,33,Not Immunized,Severe Malnutrition,Malaria,2023-01-07
+38,India,Rural,59,Female,3.38,22,Fully Immunized,Normal,Other,2023-11-28
+39,Nigeria,Urban,35,Female,3.24,34,Fully Immunized,Moderate Malnutrition,Prematurity,2023-05-16
+40,India,Urban,3,Male,1.91,39,Not Immunized,Normal,Pneumonia,2023-03-19
+41,Nigeria,Urban,57,Female,3.93,26,Fully Immunized,Normal,Pneumonia,2023-03-10
+42,Bangladesh,Urban,46,Male,2.47,40,Fully Immunized,Severe Malnutrition,Prematurity,2023-01-09
+43,India,Rural,22,Male,3.5,29,Not Immunized,Severe Malnutrition,Malaria,2023-08-22
+44,Bangladesh,Rural,45,Female,2.89,24,Fully Immunized,Severe Malnutrition,Other,2023-03-01
+45,India,Rural,53,Female,3.06,40,Not Immunized,Moderate Malnutrition,Malaria,2023-11-27
+46,Kenya,Rural,4,Male,2.27,25,Fully Immunized,Severe Malnutrition,Malaria,2023-06-02
+47,India,Urban,8,Male,3.51,24,Fully Immunized,Moderate Malnutrition,Pneumonia,2023-03-01
+48,India,Urban,42,Female,2.75,21,Not Immunized,Moderate Malnutrition,Diarrhea,2023-11-19
+49,Brazil,Rural,19,Female,1.93,19,Not Immunized,Severe Malnutrition,Other,2023-05-27
+50,India,Rural,51,Male,3.98,34,Partially Immunized,Normal,Other,2023-02-17
+51,India,Urban,47,Female,2.06,20,Fully Immunized,Moderate Malnutrition,Diarrhea,2023-07-14
+52,India,Urban,22,Male,2.46,22,Not Immunized,Moderate Malnutrition,Diarrhea,2023-03-04
+53,Kenya,Urban,29,Female,2.41,39,Partially Immunized,Severe Malnutrition,Diarrhea,2023-02-02
+54,Bangladesh,Urban,13,Male,2.6,36,Fully Immunized,Moderate Malnutrition,Pneumonia,2023-03-21
+55,India,Rural,10,Female,3.95,29,Fully Immunized,Normal,Pneumonia,2023-06-05
+56,Kenya,Urban,52,Male,2.36,32,Fully Immunized,Moderate Malnutrition,Diarrhea,2023-06-01
+57,India,Urban,1,Female,2.37,28,Not Immunized,Moderate Malnutrition,Malaria,2023-03-18
+58,Brazil,Urban,10,Male,3.84,39,Fully Immunized,Normal,Malaria,2023-06-26
+59,India,Rural,21,Female,1.82,20,Not Immunized,Moderate Malnutrition,Other,2023-09-04
+60,Brazil,Urban,37,Male,2.16,30,Not Immunized,Moderate Malnutrition,Prematurity,2023-04-17
+61,Nigeria,Urban,46,Female,2.25,21,Not Immunized,Severe Malnutrition,Malaria,2023-09-03
+62,Kenya,Rural,41,Female,2.01,21,Partially Immunized,Moderate Malnutrition,Other,2023-04-30
+63,Kenya,Urban,20,Female,3.84,25,Partially Immunized,Normal,Pneumonia,2023-04-22
+64,India,Urban,57,Female,3.38,32,Not Immunized,Severe Malnutrition,Pneumonia,2023-07-06
+65,Nigeria,Urban,16,Male,3.42,24,Partially Immunized,Normal,Other,2023-07-13
+66,Nigeria,Rural,18,Female,1.88,20,Not Immunized,Severe Malnutrition,Malaria,2023-11-17
+67,Nigeria,Rural,16,Female,2.47,35,Fully Immunized,Normal,Diarrhea,2023-12-01
+68,Bangladesh,Rural,20,Male,1.76,20,Not Immunized,Normal,Prematurity,2023-07-07
+69,Kenya,Rural,32,Female,2.06,40,Not Immunized,Severe Malnutrition,Diarrhea,2023-03-30
+70,Nigeria,Rural,27,Male,3.41,19,Fully Immunized,Severe Malnutrition,Other,2023-02-07
+71,Kenya,Rural,30,Male,3.65,36,Not Immunized,Moderate Malnutrition,Prematurity,2023-12-11
+72,India,Rural,13,Male,1.51,26,Not Immunized,Moderate Malnutrition,Pneumonia,2023-02-23
+73,Kenya,Rural,8,Male,3.0,34,Fully Immunized,Severe Malnutrition,Pneumonia,2023-07-24
+74,Kenya,Rural,58,Female,1.55,33,Partially Immunized,Normal,Pneumonia,2023-09-08
+75,Nigeria,Rural,13,Male,3.81,26,Fully Immunized,Severe Malnutrition,Malaria,2023-01-12
+76,Nigeria,Rural,24,Male,1.94,27,Fully Immunized,Severe Malnutrition,Diarrhea,2023-09-26
+77,India,Urban,16,Male,2.46,34,Partially Immunized,Normal,Malaria,2023-03-14
+78,Nigeria,Rural,2,Female,3.6,34,Not Immunized,Moderate Malnutrition,Pneumonia,2023-03-29
+79,India,Urban,17,Male,2.15,20,Partially Immunized,Normal,Pneumonia,2023-10-23
+80,Kenya,Rural,20,Male,3.43,18,Fully Immunized,Severe Malnutrition,Pneumonia,2023-07-08
+81,Kenya,Rural,21,Male,3.32,26,Partially Immunized,Normal,Malaria,2023-05-31
+82,Bangladesh,Urban,57,Female,1.97,38,Not Immunized,Moderate Malnutrition,Prematurity,2023-11-25
+83,Kenya,Rural,16,Male,3.92,35,Partially Immunized,Moderate Malnutrition,Pneumonia,2023-09-27
+84,Bangladesh,Urban,35,Female,2.92,30,Not Immunized,Moderate Malnutrition,Prematurity,2023-09-04
+85,Nigeria,Rural,39,Female,2.02,24,Not Immunized,Severe Malnutrition,Pneumonia,2023-05-10
+86,India,Urban,35,Female,2.93,34,Not Immunized,Severe Malnutrition,Malaria,2023-11-12
+87,Brazil,Urban,24,Male,1.62,23,Fully Immunized,Normal,Prematurity,2023-04-22
+88,Brazil,Urban,27,Male,2.19,23,Fully Immunized,Normal,Diarrhea,2023-12-11
+89,Brazil,Urban,50,Male,3.22,19,Partially Immunized,Severe Malnutrition,Pneumonia,2023-10-15
+90,Brazil,Urban,36,Female,1.81,27,Partially Immunized,Normal,Diarrhea,2023-08-18
+91,India,Rural,8,Male,2.51,37,Partially Immunized,Severe Malnutrition,Pneumonia,2023-08-28
+92,India,Rural,41,Male,3.84,37,Partially Immunized,Normal,Malaria,2023-10-07
+93,Brazil,Urban,4,Male,3.9,30,Fully Immunized,Moderate Malnutrition,Diarrhea,2023-08-30
+94,Brazil,Rural,2,Female,1.63,31,Partially Immunized,Severe Malnutrition,Diarrhea,2023-12-14
+95,India,Rural,34,Female,3.02,36,Fully Immunized,Normal,Pneumonia,2023-06-07
+96,Bangladesh,Urban,49,Female,2.42,26,Partially Immunized,Severe Malnutrition,Pneumonia,2023-01-01
+97,Brazil,Rural,25,Female,1.94,40,Not Immunized,Moderate Malnutrition,Diarrhea,2023-05-09
+98,Kenya,Urban,20,Female,3.39,33,Fully Immunized,Moderate Malnutrition,Other,2023-11-19
+99,Bangladesh,Urban,11,Male,3.49,36,Not Immunized,Severe Malnutrition,Malaria,2023-07-17
+100,Bangladesh,Urban,50,Female,3.69,24,Partially Immunized,Normal,Diarrhea,2023-01-20
+101,Nigeria,Urban,51,Female,3.19,31,Partially Immunized,Normal,Diarrhea,2023-03-11
+102,India,Urban,22,Female,2.53,30,Fully Immunized,Normal,Other,2023-10-31
+103,Nigeria,Urban,56,Female,1.89,32,Fully Immunized,Moderate Malnutrition,Pneumonia,2023-10-25
+104,Kenya,Urban,5,Male,3.84,25,Fully Immunized,Severe Malnutrition,Prematurity,2023-10-14
+105,Bangladesh,Rural,27,Male,3.6,39,Partially Immunized,Moderate Malnutrition,Pneumonia,2023-10-27
+106,Kenya,Rural,17,Male,2.62,35,Fully Immunized,Normal,Pneumonia,2023-01-13
+107,Brazil,Rural,14,Female,2.88,38,Fully Immunized,Moderate Malnutrition,Diarrhea,2023-03-01
+108,India,Urban,58,Female,1.88,26,Not Immunized,Severe Malnutrition,Diarrhea,2023-05-03
+109,India,Rural,0,Female,2.61,18,Fully Immunized,Severe Malnutrition,Pneumonia,2023-04-04
+110,Bangladesh,Urban,52,Male,1.84,31,Partially Immunized,Severe Malnutrition,Malaria,2023-11-23
+111,Kenya,Urban,56,Female,2.5,36,Not Immunized,Severe Malnutrition,Malaria,2023-04-13
+112,Nigeria,Urban,12,Male,2.98,38,Not Immunized,Moderate Malnutrition,Other,2023-12-01
+113,Nigeria,Urban,4,Male,3.54,26,Not Immunized,Moderate Malnutrition,Prematurity,2023-10-22
+114,Nigeria,Rural,47,Male,3.51,39,Partially Immunized,Normal,Prematurity,2023-03-11
+115,Bangladesh,Rural,40,Female,1.75,30,Not Immunized,Normal,Other,2023-10-07
+116,Bangladesh,Urban,50,Male,3.11,29,Not Immunized,Moderate Malnutrition,Diarrhea,2023-06-08
+117,Brazil,Urban,6,Male,2.36,26,Not Immunized,Severe Malnutrition,Pneumonia,2023-04-16
+118,India,Rural,1,Male,2.97,22,Not Immunized,Normal,Pneumonia,2023-09-11
+119,Bangladesh,Urban,24,Male,3.26,36,Fully Immunized,Moderate Malnutrition,Other,2023-11-27
+120,Bangladesh,Urban,48,Female,1.76,33,Fully Immunized,Severe Malnutrition,Prematurity,2023-11-29
+121,Nigeria,Rural,22,Male,2.52,23,Not Immunized,Moderate Malnutrition,Prematurity,2023-02-28
+122,Nigeria,Urban,23,Male,2.48,35,Fully Immunized,Severe Malnutrition,Diarrhea,2023-12-30
+123,Nigeria,Rural,55,Female,1.75,34,Partially Immunized,Moderate Malnutrition,Other,2023-09-07
+124,Nigeria,Rural,40,Female,3.02,40,Not Immunized,Severe Malnutrition,Other,2023-10-26
+125,India,Urban,16,Male,3.65,19,Fully Immunized,Severe Malnutrition,Other,2023-05-24
+126,Kenya,Rural,6,Female,2.83,28,Partially Immunized,Normal,Diarrhea,2023-01-31
+127,Kenya,Urban,30,Male,2.69,36,Not Immunized,Severe Malnutrition,Diarrhea,2023-05-15
+128,Nigeria,Rural,45,Female,3.07,30,Not Immunized,Moderate Malnutrition,Diarrhea,2023-07-24
+129,India,Rural,13,Male,2.25,34,Partially Immunized,Moderate Malnutrition,Pneumonia,2023-10-02
+130,Brazil,Urban,7,Male,2.51,23,Fully Immunized,Severe Malnutrition,Diarrhea,2023-04-27
+131,Kenya,Urban,12,Male,2.29,19,Fully Immunized,Normal,Diarrhea,2023-07-02
+132,Nigeria,Rural,2,Male,2.08,39,Not Immunized,Normal,Pneumonia,2023-01-17
+133,Kenya,Rural,59,Female,2.71,26,Fully Immunized,Moderate Malnutrition,Other,2023-10-28
+134,Kenya,Rural,52,Male,3.94,32,Partially Immunized,Moderate Malnutrition,Pneumonia,2023-09-25
+135,India,Urban,1,Female,3.18,23,Fully Immunized,Moderate Malnutrition,Diarrhea,2023-10-04
+136,Nigeria,Urban,4,Female,3.84,31,Fully Immunized,Normal,Pneumonia,2023-07-20
+137,Nigeria,Rural,59,Female,2.43,18,Not Immunized,Moderate Malnutrition,Diarrhea,2023-03-30
+138,Kenya,Urban,18,Female,3.63,38,Partially Immunized,Severe Malnutrition,Pneumonia,2023-08-04
+139,Kenya,Rural,38,Male,3.58,20,Partially Immunized,Normal,Diarrhea,2023-12-16
+140,Nigeria,Rural,52,Male,3.2,25,Not Immunized,Normal,Malaria,2023-08-20
+141,Bangladesh,Urban,21,Male,1.5,35,Not Immunized,Moderate Malnutrition,Pneumonia,2023-03-20
+142,Nigeria,Urban,36,Female,3.89,22,Partially Immunized,Severe Malnutrition,Malaria,2023-07-06
+143,India,Urban,15,Male,3.73,39,Not Immunized,Normal,Other,2023-05-23
+144,Bangladesh,Rural,15,Female,1.98,26,Partially Immunized,Severe Malnutrition,Malaria,2023-12-07
+145,India,Urban,58,Female,3.14,19,Partially Immunized,Severe Malnutrition,Other,2023-11-26
+146,Kenya,Rural,32,Female,3.05,24,Not Immunized,Moderate Malnutrition,Malaria,2023-11-28
+147,Kenya,Urban,43,Female,3.71,40,Partially Immunized,Moderate Malnutrition,Pneumonia,2023-09-30
+148,Brazil,Urban,27,Male,1.91,28,Fully Immunized,Severe Malnutrition,Diarrhea,2023-08-04
+149,Brazil,Rural,38,Male,3.85,25,Partially Immunized,Severe Malnutrition,Other,2023-11-20
+150,Kenya,Urban,24,Male,3.86,21,Not Immunized,Moderate Malnutrition,Diarrhea,2023-12-12
+151,Bangladesh,Urban,13,Female,2.65,22,Partially Immunized,Severe Malnutrition,Diarrhea,2023-02-27
+152,India,Urban,30,Male,1.99,39,Not Immunized,Moderate Malnutrition,Pneumonia,2023-05-16
+153,Bangladesh,Rural,37,Male,2.3,37,Fully Immunized,Normal,Other,2023-06-26
+154,Kenya,Urban,23,Female,3.92,19,Partially Immunized,Normal,Malaria,2023-07-22
+155,Nigeria,Rural,56,Female,2.52,25,Fully Immunized,Moderate Malnutrition,Other,2023-11-22
+156,Kenya,Urban,26,Female,1.57,22,Fully Immunized,Moderate Malnutrition,Pneumonia,2023-09-06
+157,Bangladesh,Urban,22,Female,2.47,34,Not Immunized,Normal,Other,2023-12-13
+158,Nigeria,Urban,57,Male,3.29,38,Fully Immunized,Moderate Malnutrition,Other,2023-01-20
+159,India,Urban,22,Male,3.43,30,Not Immunized,Moderate Malnutrition,Diarrhea,2023-04-25
+160,India,Rural,50,Female,3.9,18,Partially Immunized,Moderate Malnutrition,Diarrhea,2023-02-13
+161,Bangladesh,Urban,17,Female,1.63,40,Fully Immunized,Moderate Malnutrition,Pneumonia,2023-02-05
+162,Brazil,Urban,18,Male,3.56,28,Partially Immunized,Severe Malnutrition,Prematurity,2023-08-08
+163,Brazil,Urban,43,Female,2.47,31,Partially Immunized,Moderate Malnutrition,Other,2023-06-25
+164,Kenya,Urban,17,Male,1.6,18,Not Immunized,Normal,Prematurity,2023-07-25
+165,India,Urban,28,Female,1.54,28,Partially Immunized,Normal,Other,2023-02-09
+166,India,Urban,32,Male,1.56,34,Fully Immunized,Moderate Malnutrition,Diarrhea,2023-11-02
+167,India,Urban,58,Male,2.94,34,Partially Immunized,Severe Malnutrition,Pneumonia,2023-03-07
+168,Bangladesh,Urban,12,Female,2.93,23,Partially Immunized,Normal,Diarrhea,2023-10-02
+169,Nigeria,Rural,0,Female,2.16,20,Not Immunized,Severe Malnutrition,Malaria,2023-06-11
+170,Bangladesh,Urban,25,Female,2.72,34,Fully Immunized,Moderate Malnutrition,Prematurity,2023-09-06
+171,Brazil,Urban,21,Female,3.15,22,Not Immunized,Severe Malnutrition,Pneumonia,2023-09-04
+172,Bangladesh,Urban,37,Female,1.58,35,Partially Immunized,Severe Malnutrition,Diarrhea,2023-07-31
+173,Bangladesh,Urban,14,Male,3.48,27,Fully Immunized,Moderate Malnutrition,Other,2023-04-03
+174,Nigeria,Rural,44,Female,1.98,38,Fully Immunized,Severe Malnutrition,Pneumonia,2023-11-26
+175,Bangladesh,Rural,12,Female,2.79,36,Fully Immunized,Severe Malnutrition,Diarrhea,2023-01-15
+176,Brazil,Rural,25,Female,3.93,36,Fully Immunized,Severe Malnutrition,Other,2023-11-09
+177,India,Rural,8,Male,2.82,32,Not Immunized,Normal,Prematurity,2023-07-04
+178,Kenya,Rural,56,Male,3.16,26,Fully Immunized,Normal,Other,2023-04-26
+179,Nigeria,Urban,2,Male,3.17,20,Fully Immunized,Normal,Diarrhea,2023-06-21
+180,Brazil,Rural,52,Female,3.85,21,Partially Immunized,Normal,Diarrhea,2023-03-31
+181,Brazil,Urban,18,Female,3.1,18,Fully Immunized,Normal,Other,2023-12-17
+182,Bangladesh,Rural,25,Female,3.0,26,Not Immunized,Moderate Malnutrition,Other,2023-09-27
+183,Brazil,Urban,17,Male,2.92,30,Fully Immunized,Severe Malnutrition,Pneumonia,2023-04-23
+184,Brazil,Rural,34,Male,3.0,21,Not Immunized,Normal,Prematurity,2023-11-16
+185,Kenya,Urban,59,Female,2.07,21,Partially Immunized,Normal,Prematurity,2023-07-04
+186,India,Urban,49,Male,2.64,28,Partially Immunized,Normal,Other,2023-06-23
+187,Nigeria,Urban,20,Female,3.22,21,Partially Immunized,Severe Malnutrition,Prematurity,2023-06-20
+188,Brazil,Urban,10,Male,2.85,31,Not Immunized,Normal,Other,2023-11-24
+189,Nigeria,Rural,20,Male,2.27,22,Not Immunized,Moderate Malnutrition,Pneumonia,2023-11-06
+190,India,Urban,16,Female,2.27,37,Fully Immunized,Normal,Prematurity,2023-09-05
+191,Brazil,Urban,17,Female,1.88,19,Partially Immunized,Normal,Other,2023-01-19
+192,Bangladesh,Rural,58,Male,2.99,37,Not Immunized,Normal,Diarrhea,2023-09-21
+193,India,Urban,56,Female,3.6,32,Not Immunized,Normal,Pneumonia,2023-11-29
+194,Bangladesh,Rural,8,Male,3.31,32,Not Immunized,Normal,Diarrhea,2023-10-24
+195,Nigeria,Rural,57,Female,2.61,19,Not Immunized,Severe Malnutrition,Pneumonia,2023-01-26
+196,Kenya,Urban,6,Female,2.89,21,Partially Immunized,Severe Malnutrition,Pneumonia,2023-12-06
+197,Bangladesh,Urban,45,Male,3.89,27,Partially Immunized,Moderate Malnutrition,Other,2023-02-26
+198,Brazil,Rural,34,Male,3.58,28,Partially Immunized,Normal,Other,2023-01-17
+199,India,Urban,2,Male,2.61,30,Partially Immunized,Severe Malnutrition,Other,2023-04-19
+200,India,Urban,47,Male,2.09,29,Fully Immunized,Moderate Malnutrition,Other,2023-01-06
+201,Brazil,Urban,54,Male,2.69,35,Partially Immunized,Moderate Malnutrition,Prematurity,2023-11-11
+202,Bangladesh,Rural,18,Male,2.76,35,Fully Immunized,Normal,Pneumonia,2023-10-28
+203,Kenya,Rural,31,Male,2.14,33,Fully Immunized,Normal,Malaria,2023-10-31
+204,Nigeria,Urban,16,Female,3.9,19,Fully Immunized,Severe Malnutrition,Malaria,2023-11-15
+205,Kenya,Rural,0,Female,2.08,30,Not Immunized,Severe Malnutrition,Diarrhea,2023-10-13
+206,India,Rural,51,Male,3.59,25,Not Immunized,Normal,Diarrhea,2023-01-28
+207,Nigeria,Rural,25,Female,3.3,24,Not Immunized,Severe Malnutrition,Diarrhea,2023-08-12
+208,Nigeria,Rural,58,Male,3.05,23,Not Immunized,Normal,Prematurity,2023-07-23
+209,Kenya,Rural,24,Male,3.38,32,Fully Immunized,Severe Malnutrition,Diarrhea,2023-05-05
+210,Brazil,Urban,19,Male,2.7,18,Not Immunized,Moderate Malnutrition,Malaria,2023-06-26
+211,Kenya,Rural,46,Female,1.72,33,Not Immunized,Moderate Malnutrition,Malaria,2023-10-03
+212,Bangladesh,Urban,52,Female,2.09,26,Not Immunized,Normal,Prematurity,2023-06-24
+213,Nigeria,Urban,19,Female,2.65,29,Not Immunized,Moderate Malnutrition,Diarrhea,2023-05-02
+214,Bangladesh,Urban,33,Female,3.59,21,Not Immunized,Moderate Malnutrition,Other,2023-05-02
+215,Kenya,Rural,50,Male,3.41,39,Not Immunized,Severe Malnutrition,Malaria,2023-06-06
+216,Brazil,Urban,30,Male,3.45,39,Fully Immunized,Severe Malnutrition,Malaria,2023-08-15
+217,Kenya,Rural,48,Female,2.22,33,Partially Immunized,Moderate Malnutrition,Other,2023-07-18
+218,Brazil,Rural,38,Male,3.82,22,Fully Immunized,Normal,Other,2023-09-19
+219,Kenya,Urban,58,Female,2.76,25,Not Immunized,Moderate Malnutrition,Diarrhea,2023-10-29
+220,Kenya,Urban,57,Male,3.44,37,Fully Immunized,Severe Malnutrition,Prematurity,2023-08-09
+221,Bangladesh,Rural,31,Female,3.43,31,Partially Immunized,Severe Malnutrition,Diarrhea,2023-10-25
+222,Bangladesh,Rural,46,Male,2.41,39,Partially Immunized,Normal,Prematurity,2023-06-12
+223,Brazil,Urban,21,Female,3.35,21,Partially Immunized,Normal,Prematurity,2023-04-10
+224,Bangladesh,Urban,3,Male,2.1,28,Not Immunized,Normal,Other,2023-08-25
+225,Nigeria,Urban,51,Male,2.68,31,Fully Immunized,Severe Malnutrition,Pneumonia,2023-06-19
+226,Brazil,Rural,17,Male,3.67,28,Fully Immunized,Severe Malnutrition,Pneumonia,2023-02-28
+227,Brazil,Rural,51,Male,2.3,19,Not Immunized,Normal,Prematurity,2023-07-20
+228,India,Urban,33,Male,3.86,34,Partially Immunized,Severe Malnutrition,Other,2023-04-09
+229,Kenya,Urban,20,Male,2.99,40,Fully Immunized,Moderate Malnutrition,Pneumonia,2023-04-15
+230,Bangladesh,Urban,52,Male,3.29,27,Partially Immunized,Severe Malnutrition,Pneumonia,2023-07-23
+231,India,Rural,46,Male,3.11,31,Fully Immunized,Moderate Malnutrition,Prematurity,2023-07-01
+232,Kenya,Rural,57,Male,2.46,22,Not Immunized,Normal,Malaria,2023-03-20
+233,India,Urban,5,Female,2.24,18,Fully Immunized,Severe Malnutrition,Other,2023-03-18
+234,Brazil,Rural,36,Female,2.82,20,Partially Immunized,Moderate Malnutrition,Diarrhea,2023-11-18
+235,Brazil,Urban,36,Male,3.98,34,Not Immunized,Severe Malnutrition,Other,2023-12-21
+236,Bangladesh,Rural,15,Male,3.59,18,Partially Immunized,Severe Malnutrition,Diarrhea,2023-03-12
+237,India,Urban,55,Male,2.2,38,Partially Immunized,Normal,Other,2023-02-19
+238,Bangladesh,Rural,27,Female,3.66,25,Fully Immunized,Severe Malnutrition,Malaria,2023-01-03
+239,Nigeria,Rural,15,Female,3.62,37,Not Immunized,Normal,Diarrhea,2023-09-08
+240,Bangladesh,Urban,6,Male,3.08,37,Not Immunized,Moderate Malnutrition,Malaria,2023-04-19
+241,Nigeria,Urban,3,Female,2.19,35,Partially Immunized,Normal,Diarrhea,2023-05-10
+242,Nigeria,Urban,9,Male,3.42,27,Fully Immunized,Normal,Prematurity,2023-09-05
+243,Kenya,Rural,59,Male,2.66,38,Fully Immunized,Severe Malnutrition,Malaria,2023-10-30
+244,India,Rural,5,Female,3.66,36,Partially Immunized,Moderate Malnutrition,Diarrhea,2023-11-17
+245,Kenya,Urban,56,Female,3.4,30,Fully Immunized,Severe Malnutrition,Malaria,2023-01-04
+246,Nigeria,Urban,45,Male,2.02,25,Partially Immunized,Severe Malnutrition,Pneumonia,2023-09-29
+247,Brazil,Urban,14,Male,2.65,18,Fully Immunized,Moderate Malnutrition,Prematurity,2023-04-28
+248,Brazil,Urban,44,Female,3.8,32,Fully Immunized,Severe Malnutrition,Pneumonia,2023-02-26
+249,India,Urban,34,Male,2.03,25,Fully Immunized,Normal,Diarrhea,2023-12-07
+250,Nigeria,Urban,27,Male,2.85,40,Partially Immunized,Normal,Other,2023-02-09
+251,Brazil,Rural,47,Female,2.89,24,Partially Immunized,Moderate Malnutrition,Pneumonia,2023-12-11
+252,India,Rural,41,Female,1.88,26,Partially Immunized,Normal,Malaria,2023-10-29
+253,Nigeria,Urban,12,Male,3.47,21,Partially Immunized,Moderate Malnutrition,Malaria,2023-06-12
+254,Nigeria,Rural,40,Female,2.35,27,Partially Immunized,Severe Malnutrition,Pneumonia,2023-05-27
+255,India,Rural,32,Male,2.31,35,Not Immunized,Normal,Malaria,2023-08-04
+256,Nigeria,Urban,54,Male,2.46,40,Fully Immunized,Moderate Malnutrition,Prematurity,2023-09-12
+257,India,Urban,34,Male,3.14,37,Not Immunized,Moderate Malnutrition,Prematurity,2023-02-25
+258,Nigeria,Rural,39,Female,1.82,25,Not Immunized,Moderate Malnutrition,Other,2023-06-13
+259,Bangladesh,Rural,33,Female,3.62,24,Not Immunized,Normal,Other,2023-09-20
+260,India,Rural,52,Female,3.48,29,Not Immunized,Moderate Malnutrition,Other,2023-01-21
+261,Kenya,Rural,13,Female,3.27,20,Not Immunized,Severe Malnutrition,Prematurity,2023-12-18
+262,Nigeria,Urban,28,Female,3.92,21,Not Immunized,Moderate Malnutrition,Pneumonia,2023-01-02
+263,Kenya,Rural,58,Male,2.01,27,Partially Immunized,Normal,Malaria,2023-05-04
+264,Kenya,Urban,9,Male,1.67,18,Partially Immunized,Severe Malnutrition,Prematurity,2023-03-22
+265,Bangladesh,Rural,33,Male,3.26,28,Not Immunized,Normal,Other,2023-04-03
+266,Bangladesh,Rural,46,Male,2.57,29,Not Immunized,Normal,Prematurity,2023-07-13
+267,Brazil,Urban,20,Male,3.61,36,Partially Immunized,Normal,Pneumonia,2023-06-15
+268,Brazil,Rural,57,Female,3.93,28,Partially Immunized,Moderate Malnutrition,Diarrhea,2023-04-14
+269,Nigeria,Urban,34,Male,3.38,38,Not Immunized,Normal,Prematurity,2023-10-11
+270,Brazil,Urban,45,Male,3.5,34,Fully Immunized,Moderate Malnutrition,Pneumonia,2023-11-27
+271,Kenya,Urban,35,Female,2.07,18,Not Immunized,Moderate Malnutrition,Malaria,2023-10-01
+272,Nigeria,Rural,48,Male,1.62,36,Fully Immunized,Moderate Malnutrition,Prematurity,2023-05-05
+273,Bangladesh,Rural,40,Male,3.12,38,Not Immunized,Moderate Malnutrition,Diarrhea,2023-03-26
+274,Nigeria,Urban,32,Male,3.36,20,Not Immunized,Severe Malnutrition,Diarrhea,2023-03-01
+275,Kenya,Rural,57,Male,3.32,29,Partially Immunized,Severe Malnutrition,Diarrhea,2023-03-01
+276,India,Urban,47,Male,2.75,26,Partially Immunized,Moderate Malnutrition,Malaria,2023-12-05
+277,Brazil,Urban,12,Male,2.09,36,Partially Immunized,Moderate Malnutrition,Malaria,2023-03-12
+278,Bangladesh,Rural,58,Male,2.23,34,Fully Immunized,Normal,Malaria,2023-04-27
+279,Brazil,Urban,55,Male,2.3,33,Fully Immunized,Normal,Prematurity,2023-05-30
+280,Bangladesh,Rural,57,Female,3.52,18,Not Immunized,Moderate Malnutrition,Prematurity,2023-07-05
+281,India,Urban,4,Male,1.66,39,Not Immunized,Severe Malnutrition,Pneumonia,2023-06-27
+282,Bangladesh,Rural,51,Male,3.37,23,Partially Immunized,Moderate Malnutrition,Malaria,2023-04-12
+283,Brazil,Urban,22,Male,2.56,18,Partially Immunized,Normal,Other,2023-04-27
+284,Kenya,Rural,0,Male,2.66,26,Fully Immunized,Normal,Prematurity,2023-05-09
+285,Bangladesh,Rural,18,Male,3.69,37,Not Immunized,Severe Malnutrition,Malaria,2023-01-19
+286,Bangladesh,Urban,23,Female,1.78,29,Fully Immunized,Moderate Malnutrition,Malaria,2023-08-14
+287,Nigeria,Rural,20,Male,1.76,38,Partially Immunized,Normal,Other,2023-01-21
+288,Brazil,Urban,51,Male,2.91,38,Partially Immunized,Moderate Malnutrition,Pneumonia,2023-07-12
+289,Kenya,Urban,28,Female,2.76,33,Partially Immunized,Moderate Malnutrition,Malaria,2023-07-21
+290,Bangladesh,Urban,40,Female,3.65,36,Not Immunized,Normal,Pneumonia,2023-07-18
+291,Bangladesh,Rural,15,Male,2.59,40,Fully Immunized,Severe Malnutrition,Diarrhea,2023-03-21
+292,Brazil,Rural,48,Female,2.78,24,Fully Immunized,Severe Malnutrition,Malaria,2023-08-15
+293,India,Rural,30,Female,2.11,20,Not Immunized,Normal,Malaria,2023-09-15
+294,Kenya,Urban,14,Male,3.79,19,Not Immunized,Moderate Malnutrition,Malaria,2023-11-04
+295,Nigeria,Rural,55,Male,3.81,34,Fully Immunized,Severe Malnutrition,Prematurity,2023-11-26
+296,Brazil,Urban,15,Female,3.11,24,Partially Immunized,Normal,Other,2023-02-03
+297,India,Urban,59,Female,3.35,20,Partially Immunized,Severe Malnutrition,Prematurity,2023-08-07
+298,Nigeria,Rural,32,Male,1.99,26,Fully Immunized,Normal,Other,2023-10-24
+299,India,Rural,40,Female,1.78,35,Fully Immunized,Moderate Malnutrition,Diarrhea,2023-02-17
+300,Nigeria,Rural,52,Male,2.75,19,Not Immunized,Severe Malnutrition,Other,2023-03-20

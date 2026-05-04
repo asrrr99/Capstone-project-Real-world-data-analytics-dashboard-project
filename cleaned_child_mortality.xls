@@ -1,0 +1,301 @@
+record_id,country,region,child_age_months,gender,birth_weight_kg,mother_age,immunization_status,nutrition_status,cause_of_death,death_date,year,month,age_group
+1,india,rural,44,male,1.52,31,partially immunized,severe malnutrition,prematurity,2023-11-28,2023,November,child
+2,kenya,rural,29,male,2.91,27,not immunized,moderate malnutrition,malaria,2023-03-12,2023,March,toddler
+3,brazil,rural,38,female,3.35,18,not immunized,normal,pneumonia,2023-04-13,2023,April,child
+4,brazil,rural,40,female,3.14,32,not immunized,severe malnutrition,prematurity,2023-08-17,2023,August,child
+5,bangladesh,rural,48,male,2.79,21,fully immunized,normal,pneumonia,2023-11-11,2023,November,child
+6,kenya,urban,0,male,2.36,29,fully immunized,normal,other,2023-10-10,2023,October,infant
+7,india,rural,40,female,1.63,25,not immunized,severe malnutrition,pneumonia,2023-12-09,2023,December,child
+8,brazil,urban,9,female,2.87,27,not immunized,moderate malnutrition,other,2023-05-09,2023,May,infant
+9,bangladesh,urban,37,male,3.73,28,fully immunized,severe malnutrition,malaria,2023-05-13,2023,May,child
+10,nigeria,urban,37,male,1.83,30,partially immunized,normal,malaria,2023-12-12,2023,December,child
+11,kenya,rural,22,female,3.15,40,not immunized,moderate malnutrition,malaria,2023-03-13,2023,March,toddler
+12,india,urban,34,male,3.33,19,not immunized,normal,diarrhea,2023-08-23,2023,August,toddler
+13,india,urban,49,female,1.82,24,not immunized,normal,prematurity,2023-07-10,2023,July,child
+14,bangladesh,urban,40,female,2.4,25,not immunized,normal,prematurity,2023-03-14,2023,March,child
+15,india,urban,48,female,3.72,21,partially immunized,normal,diarrhea,2023-05-11,2023,May,child
+16,bangladesh,urban,25,female,2.59,19,partially immunized,moderate malnutrition,diarrhea,2023-12-25,2023,December,toddler
+17,india,rural,30,female,2.05,34,not immunized,moderate malnutrition,pneumonia,2023-07-06,2023,July,toddler
+18,india,urban,52,male,3.43,34,partially immunized,normal,prematurity,2023-07-05,2023,July,child
+19,nigeria,urban,22,male,1.98,40,partially immunized,severe malnutrition,other,2023-05-16,2023,May,toddler
+20,brazil,urban,48,female,3.94,31,not immunized,moderate malnutrition,pneumonia,2023-04-20,2023,April,child
+21,bangladesh,urban,1,female,3.63,23,partially immunized,severe malnutrition,other,2023-06-29,2023,June,infant
+22,bangladesh,rural,3,male,1.79,24,not immunized,moderate malnutrition,prematurity,2023-12-30,2023,December,infant
+23,bangladesh,urban,58,female,3.96,28,fully immunized,severe malnutrition,malaria,2023-06-14,2023,June,child
+24,india,rural,19,female,1.83,34,partially immunized,moderate malnutrition,pneumonia,2023-05-16,2023,May,toddler
+25,india,rural,10,female,2.3,34,not immunized,moderate malnutrition,pneumonia,2023-08-16,2023,August,infant
+26,kenya,urban,42,female,3.72,30,not immunized,severe malnutrition,prematurity,2023-04-02,2023,April,child
+27,nigeria,urban,37,female,2.98,21,not immunized,moderate malnutrition,diarrhea,2023-10-15,2023,October,child
+28,bangladesh,rural,21,male,1.7,27,partially immunized,normal,prematurity,2023-05-16,2023,May,toddler
+29,india,urban,8,male,1.59,21,partially immunized,normal,prematurity,2023-05-31,2023,May,infant
+30,nigeria,rural,4,female,2.17,29,partially immunized,normal,prematurity,2023-08-29,2023,August,infant
+31,india,rural,27,female,2.69,18,fully immunized,moderate malnutrition,other,2023-12-16,2023,December,toddler
+32,brazil,rural,50,female,2.37,32,not immunized,severe malnutrition,malaria,2023-05-24,2023,May,child
+33,brazil,urban,6,female,3.28,33,partially immunized,moderate malnutrition,other,2023-08-31,2023,August,infant
+34,bangladesh,urban,43,female,1.9,36,fully immunized,moderate malnutrition,prematurity,2023-10-21,2023,October,child
+35,bangladesh,urban,19,female,3.09,31,fully immunized,severe malnutrition,other,2023-02-05,2023,February,toddler
+36,nigeria,urban,21,male,3.5,37,fully immunized,moderate malnutrition,other,2023-08-22,2023,August,toddler
+37,bangladesh,rural,3,male,2.62,33,not immunized,severe malnutrition,malaria,2023-01-07,2023,January,infant
+38,india,rural,59,female,3.38,22,fully immunized,normal,other,2023-11-28,2023,November,child
+39,nigeria,urban,35,female,3.24,34,fully immunized,moderate malnutrition,prematurity,2023-05-16,2023,May,toddler
+40,india,urban,3,male,1.91,39,not immunized,normal,pneumonia,2023-03-19,2023,March,infant
+41,nigeria,urban,57,female,3.93,26,fully immunized,normal,pneumonia,2023-03-10,2023,March,child
+42,bangladesh,urban,46,male,2.47,40,fully immunized,severe malnutrition,prematurity,2023-01-09,2023,January,child
+43,india,rural,22,male,3.5,29,not immunized,severe malnutrition,malaria,2023-08-22,2023,August,toddler
+44,bangladesh,rural,45,female,2.89,24,fully immunized,severe malnutrition,other,2023-03-01,2023,March,child
+45,india,rural,53,female,3.06,40,not immunized,moderate malnutrition,malaria,2023-11-27,2023,November,child
+46,kenya,rural,4,male,2.27,25,fully immunized,severe malnutrition,malaria,2023-06-02,2023,June,infant
+47,india,urban,8,male,3.51,24,fully immunized,moderate malnutrition,pneumonia,2023-03-01,2023,March,infant
+48,india,urban,42,female,2.75,21,not immunized,moderate malnutrition,diarrhea,2023-11-19,2023,November,child
+49,brazil,rural,19,female,1.93,19,not immunized,severe malnutrition,other,2023-05-27,2023,May,toddler
+50,india,rural,51,male,3.98,34,partially immunized,normal,other,2023-02-17,2023,February,child
+51,india,urban,47,female,2.06,20,fully immunized,moderate malnutrition,diarrhea,2023-07-14,2023,July,child
+52,india,urban,22,male,2.46,22,not immunized,moderate malnutrition,diarrhea,2023-03-04,2023,March,toddler
+53,kenya,urban,29,female,2.41,39,partially immunized,severe malnutrition,diarrhea,2023-02-02,2023,February,toddler
+54,bangladesh,urban,13,male,2.6,36,fully immunized,moderate malnutrition,pneumonia,2023-03-21,2023,March,toddler
+55,india,rural,10,female,3.95,29,fully immunized,normal,pneumonia,2023-06-05,2023,June,infant
+56,kenya,urban,52,male,2.36,32,fully immunized,moderate malnutrition,diarrhea,2023-06-01,2023,June,child
+57,india,urban,1,female,2.37,28,not immunized,moderate malnutrition,malaria,2023-03-18,2023,March,infant
+58,brazil,urban,10,male,3.84,39,fully immunized,normal,malaria,2023-06-26,2023,June,infant
+59,india,rural,21,female,1.82,20,not immunized,moderate malnutrition,other,2023-09-04,2023,September,toddler
+60,brazil,urban,37,male,2.16,30,not immunized,moderate malnutrition,prematurity,2023-04-17,2023,April,child
+61,nigeria,urban,46,female,2.25,21,not immunized,severe malnutrition,malaria,2023-09-03,2023,September,child
+62,kenya,rural,41,female,2.01,21,partially immunized,moderate malnutrition,other,2023-04-30,2023,April,child
+63,kenya,urban,20,female,3.84,25,partially immunized,normal,pneumonia,2023-04-22,2023,April,toddler
+64,india,urban,57,female,3.38,32,not immunized,severe malnutrition,pneumonia,2023-07-06,2023,July,child
+65,nigeria,urban,16,male,3.42,24,partially immunized,normal,other,2023-07-13,2023,July,toddler
+66,nigeria,rural,18,female,1.88,20,not immunized,severe malnutrition,malaria,2023-11-17,2023,November,toddler
+67,nigeria,rural,16,female,2.47,35,fully immunized,normal,diarrhea,2023-12-01,2023,December,toddler
+68,bangladesh,rural,20,male,1.76,20,not immunized,normal,prematurity,2023-07-07,2023,July,toddler
+69,kenya,rural,32,female,2.06,40,not immunized,severe malnutrition,diarrhea,2023-03-30,2023,March,toddler
+70,nigeria,rural,27,male,3.41,19,fully immunized,severe malnutrition,other,2023-02-07,2023,February,toddler
+71,kenya,rural,30,male,3.65,36,not immunized,moderate malnutrition,prematurity,2023-12-11,2023,December,toddler
+72,india,rural,13,male,1.51,26,not immunized,moderate malnutrition,pneumonia,2023-02-23,2023,February,toddler
+73,kenya,rural,8,male,3.0,34,fully immunized,severe malnutrition,pneumonia,2023-07-24,2023,July,infant
+74,kenya,rural,58,female,1.55,33,partially immunized,normal,pneumonia,2023-09-08,2023,September,child
+75,nigeria,rural,13,male,3.81,26,fully immunized,severe malnutrition,malaria,2023-01-12,2023,January,toddler
+76,nigeria,rural,24,male,1.94,27,fully immunized,severe malnutrition,diarrhea,2023-09-26,2023,September,toddler
+77,india,urban,16,male,2.46,34,partially immunized,normal,malaria,2023-03-14,2023,March,toddler
+78,nigeria,rural,2,female,3.6,34,not immunized,moderate malnutrition,pneumonia,2023-03-29,2023,March,infant
+79,india,urban,17,male,2.15,20,partially immunized,normal,pneumonia,2023-10-23,2023,October,toddler
+80,kenya,rural,20,male,3.43,18,fully immunized,severe malnutrition,pneumonia,2023-07-08,2023,July,toddler
+81,kenya,rural,21,male,3.32,26,partially immunized,normal,malaria,2023-05-31,2023,May,toddler
+82,bangladesh,urban,57,female,1.97,38,not immunized,moderate malnutrition,prematurity,2023-11-25,2023,November,child
+83,kenya,rural,16,male,3.92,35,partially immunized,moderate malnutrition,pneumonia,2023-09-27,2023,September,toddler
+84,bangladesh,urban,35,female,2.92,30,not immunized,moderate malnutrition,prematurity,2023-09-04,2023,September,toddler
+85,nigeria,rural,39,female,2.02,24,not immunized,severe malnutrition,pneumonia,2023-05-10,2023,May,child
+86,india,urban,35,female,2.93,34,not immunized,severe malnutrition,malaria,2023-11-12,2023,November,toddler
+87,brazil,urban,24,male,1.62,23,fully immunized,normal,prematurity,2023-04-22,2023,April,toddler
+88,brazil,urban,27,male,2.19,23,fully immunized,normal,diarrhea,2023-12-11,2023,December,toddler
+89,brazil,urban,50,male,3.22,19,partially immunized,severe malnutrition,pneumonia,2023-10-15,2023,October,child
+90,brazil,urban,36,female,1.81,27,partially immunized,normal,diarrhea,2023-08-18,2023,August,toddler
+91,india,rural,8,male,2.51,37,partially immunized,severe malnutrition,pneumonia,2023-08-28,2023,August,infant
+92,india,rural,41,male,3.84,37,partially immunized,normal,malaria,2023-10-07,2023,October,child
+93,brazil,urban,4,male,3.9,30,fully immunized,moderate malnutrition,diarrhea,2023-08-30,2023,August,infant
+94,brazil,rural,2,female,1.63,31,partially immunized,severe malnutrition,diarrhea,2023-12-14,2023,December,infant
+95,india,rural,34,female,3.02,36,fully immunized,normal,pneumonia,2023-06-07,2023,June,toddler
+96,bangladesh,urban,49,female,2.42,26,partially immunized,severe malnutrition,pneumonia,2023-01-01,2023,January,child
+97,brazil,rural,25,female,1.94,40,not immunized,moderate malnutrition,diarrhea,2023-05-09,2023,May,toddler
+98,kenya,urban,20,female,3.39,33,fully immunized,moderate malnutrition,other,2023-11-19,2023,November,toddler
+99,bangladesh,urban,11,male,3.49,36,not immunized,severe malnutrition,malaria,2023-07-17,2023,July,infant
+100,bangladesh,urban,50,female,3.69,24,partially immunized,normal,diarrhea,2023-01-20,2023,January,child
+101,nigeria,urban,51,female,3.19,31,partially immunized,normal,diarrhea,2023-03-11,2023,March,child
+102,india,urban,22,female,2.53,30,fully immunized,normal,other,2023-10-31,2023,October,toddler
+103,nigeria,urban,56,female,1.89,32,fully immunized,moderate malnutrition,pneumonia,2023-10-25,2023,October,child
+104,kenya,urban,5,male,3.84,25,fully immunized,severe malnutrition,prematurity,2023-10-14,2023,October,infant
+105,bangladesh,rural,27,male,3.6,39,partially immunized,moderate malnutrition,pneumonia,2023-10-27,2023,October,toddler
+106,kenya,rural,17,male,2.62,35,fully immunized,normal,pneumonia,2023-01-13,2023,January,toddler
+107,brazil,rural,14,female,2.88,38,fully immunized,moderate malnutrition,diarrhea,2023-03-01,2023,March,toddler
+108,india,urban,58,female,1.88,26,not immunized,severe malnutrition,diarrhea,2023-05-03,2023,May,child
+109,india,rural,0,female,2.61,18,fully immunized,severe malnutrition,pneumonia,2023-04-04,2023,April,infant
+110,bangladesh,urban,52,male,1.84,31,partially immunized,severe malnutrition,malaria,2023-11-23,2023,November,child
+111,kenya,urban,56,female,2.5,36,not immunized,severe malnutrition,malaria,2023-04-13,2023,April,child
+112,nigeria,urban,12,male,2.98,38,not immunized,moderate malnutrition,other,2023-12-01,2023,December,infant
+113,nigeria,urban,4,male,3.54,26,not immunized,moderate malnutrition,prematurity,2023-10-22,2023,October,infant
+114,nigeria,rural,47,male,3.51,39,partially immunized,normal,prematurity,2023-03-11,2023,March,child
+115,bangladesh,rural,40,female,1.75,30,not immunized,normal,other,2023-10-07,2023,October,child
+116,bangladesh,urban,50,male,3.11,29,not immunized,moderate malnutrition,diarrhea,2023-06-08,2023,June,child
+117,brazil,urban,6,male,2.36,26,not immunized,severe malnutrition,pneumonia,2023-04-16,2023,April,infant
+118,india,rural,1,male,2.97,22,not immunized,normal,pneumonia,2023-09-11,2023,September,infant
+119,bangladesh,urban,24,male,3.26,36,fully immunized,moderate malnutrition,other,2023-11-27,2023,November,toddler
+120,bangladesh,urban,48,female,1.76,33,fully immunized,severe malnutrition,prematurity,2023-11-29,2023,November,child
+121,nigeria,rural,22,male,2.52,23,not immunized,moderate malnutrition,prematurity,2023-02-28,2023,February,toddler
+122,nigeria,urban,23,male,2.48,35,fully immunized,severe malnutrition,diarrhea,2023-12-30,2023,December,toddler
+123,nigeria,rural,55,female,1.75,34,partially immunized,moderate malnutrition,other,2023-09-07,2023,September,child
+124,nigeria,rural,40,female,3.02,40,not immunized,severe malnutrition,other,2023-10-26,2023,October,child
+125,india,urban,16,male,3.65,19,fully immunized,severe malnutrition,other,2023-05-24,2023,May,toddler
+126,kenya,rural,6,female,2.83,28,partially immunized,normal,diarrhea,2023-01-31,2023,January,infant
+127,kenya,urban,30,male,2.69,36,not immunized,severe malnutrition,diarrhea,2023-05-15,2023,May,toddler
+128,nigeria,rural,45,female,3.07,30,not immunized,moderate malnutrition,diarrhea,2023-07-24,2023,July,child
+129,india,rural,13,male,2.25,34,partially immunized,moderate malnutrition,pneumonia,2023-10-02,2023,October,toddler
+130,brazil,urban,7,male,2.51,23,fully immunized,severe malnutrition,diarrhea,2023-04-27,2023,April,infant
+131,kenya,urban,12,male,2.29,19,fully immunized,normal,diarrhea,2023-07-02,2023,July,infant
+132,nigeria,rural,2,male,2.08,39,not immunized,normal,pneumonia,2023-01-17,2023,January,infant
+133,kenya,rural,59,female,2.71,26,fully immunized,moderate malnutrition,other,2023-10-28,2023,October,child
+134,kenya,rural,52,male,3.94,32,partially immunized,moderate malnutrition,pneumonia,2023-09-25,2023,September,child
+135,india,urban,1,female,3.18,23,fully immunized,moderate malnutrition,diarrhea,2023-10-04,2023,October,infant
+136,nigeria,urban,4,female,3.84,31,fully immunized,normal,pneumonia,2023-07-20,2023,July,infant
+137,nigeria,rural,59,female,2.43,18,not immunized,moderate malnutrition,diarrhea,2023-03-30,2023,March,child
+138,kenya,urban,18,female,3.63,38,partially immunized,severe malnutrition,pneumonia,2023-08-04,2023,August,toddler
+139,kenya,rural,38,male,3.58,20,partially immunized,normal,diarrhea,2023-12-16,2023,December,child
+140,nigeria,rural,52,male,3.2,25,not immunized,normal,malaria,2023-08-20,2023,August,child
+141,bangladesh,urban,21,male,1.5,35,not immunized,moderate malnutrition,pneumonia,2023-03-20,2023,March,toddler
+142,nigeria,urban,36,female,3.89,22,partially immunized,severe malnutrition,malaria,2023-07-06,2023,July,toddler
+143,india,urban,15,male,3.73,39,not immunized,normal,other,2023-05-23,2023,May,toddler
+144,bangladesh,rural,15,female,1.98,26,partially immunized,severe malnutrition,malaria,2023-12-07,2023,December,toddler
+145,india,urban,58,female,3.14,19,partially immunized,severe malnutrition,other,2023-11-26,2023,November,child
+146,kenya,rural,32,female,3.05,24,not immunized,moderate malnutrition,malaria,2023-11-28,2023,November,toddler
+147,kenya,urban,43,female,3.71,40,partially immunized,moderate malnutrition,pneumonia,2023-09-30,2023,September,child
+148,brazil,urban,27,male,1.91,28,fully immunized,severe malnutrition,diarrhea,2023-08-04,2023,August,toddler
+149,brazil,rural,38,male,3.85,25,partially immunized,severe malnutrition,other,2023-11-20,2023,November,child
+150,kenya,urban,24,male,3.86,21,not immunized,moderate malnutrition,diarrhea,2023-12-12,2023,December,toddler
+151,bangladesh,urban,13,female,2.65,22,partially immunized,severe malnutrition,diarrhea,2023-02-27,2023,February,toddler
+152,india,urban,30,male,1.99,39,not immunized,moderate malnutrition,pneumonia,2023-05-16,2023,May,toddler
+153,bangladesh,rural,37,male,2.3,37,fully immunized,normal,other,2023-06-26,2023,June,child
+154,kenya,urban,23,female,3.92,19,partially immunized,normal,malaria,2023-07-22,2023,July,toddler
+155,nigeria,rural,56,female,2.52,25,fully immunized,moderate malnutrition,other,2023-11-22,2023,November,child
+156,kenya,urban,26,female,1.57,22,fully immunized,moderate malnutrition,pneumonia,2023-09-06,2023,September,toddler
+157,bangladesh,urban,22,female,2.47,34,not immunized,normal,other,2023-12-13,2023,December,toddler
+158,nigeria,urban,57,male,3.29,38,fully immunized,moderate malnutrition,other,2023-01-20,2023,January,child
+159,india,urban,22,male,3.43,30,not immunized,moderate malnutrition,diarrhea,2023-04-25,2023,April,toddler
+160,india,rural,50,female,3.9,18,partially immunized,moderate malnutrition,diarrhea,2023-02-13,2023,February,child
+161,bangladesh,urban,17,female,1.63,40,fully immunized,moderate malnutrition,pneumonia,2023-02-05,2023,February,toddler
+162,brazil,urban,18,male,3.56,28,partially immunized,severe malnutrition,prematurity,2023-08-08,2023,August,toddler
+163,brazil,urban,43,female,2.47,31,partially immunized,moderate malnutrition,other,2023-06-25,2023,June,child
+164,kenya,urban,17,male,1.6,18,not immunized,normal,prematurity,2023-07-25,2023,July,toddler
+165,india,urban,28,female,1.54,28,partially immunized,normal,other,2023-02-09,2023,February,toddler
+166,india,urban,32,male,1.56,34,fully immunized,moderate malnutrition,diarrhea,2023-11-02,2023,November,toddler
+167,india,urban,58,male,2.94,34,partially immunized,severe malnutrition,pneumonia,2023-03-07,2023,March,child
+168,bangladesh,urban,12,female,2.93,23,partially immunized,normal,diarrhea,2023-10-02,2023,October,infant
+169,nigeria,rural,0,female,2.16,20,not immunized,severe malnutrition,malaria,2023-06-11,2023,June,infant
+170,bangladesh,urban,25,female,2.72,34,fully immunized,moderate malnutrition,prematurity,2023-09-06,2023,September,toddler
+171,brazil,urban,21,female,3.15,22,not immunized,severe malnutrition,pneumonia,2023-09-04,2023,September,toddler
+172,bangladesh,urban,37,female,1.58,35,partially immunized,severe malnutrition,diarrhea,2023-07-31,2023,July,child
+173,bangladesh,urban,14,male,3.48,27,fully immunized,moderate malnutrition,other,2023-04-03,2023,April,toddler
+174,nigeria,rural,44,female,1.98,38,fully immunized,severe malnutrition,pneumonia,2023-11-26,2023,November,child
+175,bangladesh,rural,12,female,2.79,36,fully immunized,severe malnutrition,diarrhea,2023-01-15,2023,January,infant
+176,brazil,rural,25,female,3.93,36,fully immunized,severe malnutrition,other,2023-11-09,2023,November,toddler
+177,india,rural,8,male,2.82,32,not immunized,normal,prematurity,2023-07-04,2023,July,infant
+178,kenya,rural,56,male,3.16,26,fully immunized,normal,other,2023-04-26,2023,April,child
+179,nigeria,urban,2,male,3.17,20,fully immunized,normal,diarrhea,2023-06-21,2023,June,infant
+180,brazil,rural,52,female,3.85,21,partially immunized,normal,diarrhea,2023-03-31,2023,March,child
+181,brazil,urban,18,female,3.1,18,fully immunized,normal,other,2023-12-17,2023,December,toddler
+182,bangladesh,rural,25,female,3.0,26,not immunized,moderate malnutrition,other,2023-09-27,2023,September,toddler
+183,brazil,urban,17,male,2.92,30,fully immunized,severe malnutrition,pneumonia,2023-04-23,2023,April,toddler
+184,brazil,rural,34,male,3.0,21,not immunized,normal,prematurity,2023-11-16,2023,November,toddler
+185,kenya,urban,59,female,2.07,21,partially immunized,normal,prematurity,2023-07-04,2023,July,child
+186,india,urban,49,male,2.64,28,partially immunized,normal,other,2023-06-23,2023,June,child
+187,nigeria,urban,20,female,3.22,21,partially immunized,severe malnutrition,prematurity,2023-06-20,2023,June,toddler
+188,brazil,urban,10,male,2.85,31,not immunized,normal,other,2023-11-24,2023,November,infant
+189,nigeria,rural,20,male,2.27,22,not immunized,moderate malnutrition,pneumonia,2023-11-06,2023,November,toddler
+190,india,urban,16,female,2.27,37,fully immunized,normal,prematurity,2023-09-05,2023,September,toddler
+191,brazil,urban,17,female,1.88,19,partially immunized,normal,other,2023-01-19,2023,January,toddler
+192,bangladesh,rural,58,male,2.99,37,not immunized,normal,diarrhea,2023-09-21,2023,September,child
+193,india,urban,56,female,3.6,32,not immunized,normal,pneumonia,2023-11-29,2023,November,child
+194,bangladesh,rural,8,male,3.31,32,not immunized,normal,diarrhea,2023-10-24,2023,October,infant
+195,nigeria,rural,57,female,2.61,19,not immunized,severe malnutrition,pneumonia,2023-01-26,2023,January,child
+196,kenya,urban,6,female,2.89,21,partially immunized,severe malnutrition,pneumonia,2023-12-06,2023,December,infant
+197,bangladesh,urban,45,male,3.89,27,partially immunized,moderate malnutrition,other,2023-02-26,2023,February,child
+198,brazil,rural,34,male,3.58,28,partially immunized,normal,other,2023-01-17,2023,January,toddler
+199,india,urban,2,male,2.61,30,partially immunized,severe malnutrition,other,2023-04-19,2023,April,infant
+200,india,urban,47,male,2.09,29,fully immunized,moderate malnutrition,other,2023-01-06,2023,January,child
+201,brazil,urban,54,male,2.69,35,partially immunized,moderate malnutrition,prematurity,2023-11-11,2023,November,child
+202,bangladesh,rural,18,male,2.76,35,fully immunized,normal,pneumonia,2023-10-28,2023,October,toddler
+203,kenya,rural,31,male,2.14,33,fully immunized,normal,malaria,2023-10-31,2023,October,toddler
+204,nigeria,urban,16,female,3.9,19,fully immunized,severe malnutrition,malaria,2023-11-15,2023,November,toddler
+205,kenya,rural,0,female,2.08,30,not immunized,severe malnutrition,diarrhea,2023-10-13,2023,October,infant
+206,india,rural,51,male,3.59,25,not immunized,normal,diarrhea,2023-01-28,2023,January,child
+207,nigeria,rural,25,female,3.3,24,not immunized,severe malnutrition,diarrhea,2023-08-12,2023,August,toddler
+208,nigeria,rural,58,male,3.05,23,not immunized,normal,prematurity,2023-07-23,2023,July,child
+209,kenya,rural,24,male,3.38,32,fully immunized,severe malnutrition,diarrhea,2023-05-05,2023,May,toddler
+210,brazil,urban,19,male,2.7,18,not immunized,moderate malnutrition,malaria,2023-06-26,2023,June,toddler
+211,kenya,rural,46,female,1.72,33,not immunized,moderate malnutrition,malaria,2023-10-03,2023,October,child
+212,bangladesh,urban,52,female,2.09,26,not immunized,normal,prematurity,2023-06-24,2023,June,child
+213,nigeria,urban,19,female,2.65,29,not immunized,moderate malnutrition,diarrhea,2023-05-02,2023,May,toddler
+214,bangladesh,urban,33,female,3.59,21,not immunized,moderate malnutrition,other,2023-05-02,2023,May,toddler
+215,kenya,rural,50,male,3.41,39,not immunized,severe malnutrition,malaria,2023-06-06,2023,June,child
+216,brazil,urban,30,male,3.45,39,fully immunized,severe malnutrition,malaria,2023-08-15,2023,August,toddler
+217,kenya,rural,48,female,2.22,33,partially immunized,moderate malnutrition,other,2023-07-18,2023,July,child
+218,brazil,rural,38,male,3.82,22,fully immunized,normal,other,2023-09-19,2023,September,child
+219,kenya,urban,58,female,2.76,25,not immunized,moderate malnutrition,diarrhea,2023-10-29,2023,October,child
+220,kenya,urban,57,male,3.44,37,fully immunized,severe malnutrition,prematurity,2023-08-09,2023,August,child
+221,bangladesh,rural,31,female,3.43,31,partially immunized,severe malnutrition,diarrhea,2023-10-25,2023,October,toddler
+222,bangladesh,rural,46,male,2.41,39,partially immunized,normal,prematurity,2023-06-12,2023,June,child
+223,brazil,urban,21,female,3.35,21,partially immunized,normal,prematurity,2023-04-10,2023,April,toddler
+224,bangladesh,urban,3,male,2.1,28,not immunized,normal,other,2023-08-25,2023,August,infant
+225,nigeria,urban,51,male,2.68,31,fully immunized,severe malnutrition,pneumonia,2023-06-19,2023,June,child
+226,brazil,rural,17,male,3.67,28,fully immunized,severe malnutrition,pneumonia,2023-02-28,2023,February,toddler
+227,brazil,rural,51,male,2.3,19,not immunized,normal,prematurity,2023-07-20,2023,July,child
+228,india,urban,33,male,3.86,34,partially immunized,severe malnutrition,other,2023-04-09,2023,April,toddler
+229,kenya,urban,20,male,2.99,40,fully immunized,moderate malnutrition,pneumonia,2023-04-15,2023,April,toddler
+230,bangladesh,urban,52,male,3.29,27,partially immunized,severe malnutrition,pneumonia,2023-07-23,2023,July,child
+231,india,rural,46,male,3.11,31,fully immunized,moderate malnutrition,prematurity,2023-07-01,2023,July,child
+232,kenya,rural,57,male,2.46,22,not immunized,normal,malaria,2023-03-20,2023,March,child
+233,india,urban,5,female,2.24,18,fully immunized,severe malnutrition,other,2023-03-18,2023,March,infant
+234,brazil,rural,36,female,2.82,20,partially immunized,moderate malnutrition,diarrhea,2023-11-18,2023,November,toddler
+235,brazil,urban,36,male,3.98,34,not immunized,severe malnutrition,other,2023-12-21,2023,December,toddler
+236,bangladesh,rural,15,male,3.59,18,partially immunized,severe malnutrition,diarrhea,2023-03-12,2023,March,toddler
+237,india,urban,55,male,2.2,38,partially immunized,normal,other,2023-02-19,2023,February,child
+238,bangladesh,rural,27,female,3.66,25,fully immunized,severe malnutrition,malaria,2023-01-03,2023,January,toddler
+239,nigeria,rural,15,female,3.62,37,not immunized,normal,diarrhea,2023-09-08,2023,September,toddler
+240,bangladesh,urban,6,male,3.08,37,not immunized,moderate malnutrition,malaria,2023-04-19,2023,April,infant
+241,nigeria,urban,3,female,2.19,35,partially immunized,normal,diarrhea,2023-05-10,2023,May,infant
+242,nigeria,urban,9,male,3.42,27,fully immunized,normal,prematurity,2023-09-05,2023,September,infant
+243,kenya,rural,59,male,2.66,38,fully immunized,severe malnutrition,malaria,2023-10-30,2023,October,child
+244,india,rural,5,female,3.66,36,partially immunized,moderate malnutrition,diarrhea,2023-11-17,2023,November,infant
+245,kenya,urban,56,female,3.4,30,fully immunized,severe malnutrition,malaria,2023-01-04,2023,January,child
+246,nigeria,urban,45,male,2.02,25,partially immunized,severe malnutrition,pneumonia,2023-09-29,2023,September,child
+247,brazil,urban,14,male,2.65,18,fully immunized,moderate malnutrition,prematurity,2023-04-28,2023,April,toddler
+248,brazil,urban,44,female,3.8,32,fully immunized,severe malnutrition,pneumonia,2023-02-26,2023,February,child
+249,india,urban,34,male,2.03,25,fully immunized,normal,diarrhea,2023-12-07,2023,December,toddler
+250,nigeria,urban,27,male,2.85,40,partially immunized,normal,other,2023-02-09,2023,February,toddler
+251,brazil,rural,47,female,2.89,24,partially immunized,moderate malnutrition,pneumonia,2023-12-11,2023,December,child
+252,india,rural,41,female,1.88,26,partially immunized,normal,malaria,2023-10-29,2023,October,child
+253,nigeria,urban,12,male,3.47,21,partially immunized,moderate malnutrition,malaria,2023-06-12,2023,June,infant
+254,nigeria,rural,40,female,2.35,27,partially immunized,severe malnutrition,pneumonia,2023-05-27,2023,May,child
+255,india,rural,32,male,2.31,35,not immunized,normal,malaria,2023-08-04,2023,August,toddler
+256,nigeria,urban,54,male,2.46,40,fully immunized,moderate malnutrition,prematurity,2023-09-12,2023,September,child
+257,india,urban,34,male,3.14,37,not immunized,moderate malnutrition,prematurity,2023-02-25,2023,February,toddler
+258,nigeria,rural,39,female,1.82,25,not immunized,moderate malnutrition,other,2023-06-13,2023,June,child
+259,bangladesh,rural,33,female,3.62,24,not immunized,normal,other,2023-09-20,2023,September,toddler
+260,india,rural,52,female,3.48,29,not immunized,moderate malnutrition,other,2023-01-21,2023,January,child
+261,kenya,rural,13,female,3.27,20,not immunized,severe malnutrition,prematurity,2023-12-18,2023,December,toddler
+262,nigeria,urban,28,female,3.92,21,not immunized,moderate malnutrition,pneumonia,2023-01-02,2023,January,toddler
+263,kenya,rural,58,male,2.01,27,partially immunized,normal,malaria,2023-05-04,2023,May,child
+264,kenya,urban,9,male,1.67,18,partially immunized,severe malnutrition,prematurity,2023-03-22,2023,March,infant
+265,bangladesh,rural,33,male,3.26,28,not immunized,normal,other,2023-04-03,2023,April,toddler
+266,bangladesh,rural,46,male,2.57,29,not immunized,normal,prematurity,2023-07-13,2023,July,child
+267,brazil,urban,20,male,3.61,36,partially immunized,normal,pneumonia,2023-06-15,2023,June,toddler
+268,brazil,rural,57,female,3.93,28,partially immunized,moderate malnutrition,diarrhea,2023-04-14,2023,April,child
+269,nigeria,urban,34,male,3.38,38,not immunized,normal,prematurity,2023-10-11,2023,October,toddler
+270,brazil,urban,45,male,3.5,34,fully immunized,moderate malnutrition,pneumonia,2023-11-27,2023,November,child
+271,kenya,urban,35,female,2.07,18,not immunized,moderate malnutrition,malaria,2023-10-01,2023,October,toddler
+272,nigeria,rural,48,male,1.62,36,fully immunized,moderate malnutrition,prematurity,2023-05-05,2023,May,child
+273,bangladesh,rural,40,male,3.12,38,not immunized,moderate malnutrition,diarrhea,2023-03-26,2023,March,child
+274,nigeria,urban,32,male,3.36,20,not immunized,severe malnutrition,diarrhea,2023-03-01,2023,March,toddler
+275,kenya,rural,57,male,3.32,29,partially immunized,severe malnutrition,diarrhea,2023-03-01,2023,March,child
+276,india,urban,47,male,2.75,26,partially immunized,moderate malnutrition,malaria,2023-12-05,2023,December,child
+277,brazil,urban,12,male,2.09,36,partially immunized,moderate malnutrition,malaria,2023-03-12,2023,March,infant
+278,bangladesh,rural,58,male,2.23,34,fully immunized,normal,malaria,2023-04-27,2023,April,child
+279,brazil,urban,55,male,2.3,33,fully immunized,normal,prematurity,2023-05-30,2023,May,child
+280,bangladesh,rural,57,female,3.52,18,not immunized,moderate malnutrition,prematurity,2023-07-05,2023,July,child
+281,india,urban,4,male,1.66,39,not immunized,severe malnutrition,pneumonia,2023-06-27,2023,June,infant
+282,bangladesh,rural,51,male,3.37,23,partially immunized,moderate malnutrition,malaria,2023-04-12,2023,April,child
+283,brazil,urban,22,male,2.56,18,partially immunized,normal,other,2023-04-27,2023,April,toddler
+284,kenya,rural,0,male,2.66,26,fully immunized,normal,prematurity,2023-05-09,2023,May,infant
+285,bangladesh,rural,18,male,3.69,37,not immunized,severe malnutrition,malaria,2023-01-19,2023,January,toddler
+286,bangladesh,urban,23,female,1.78,29,fully immunized,moderate malnutrition,malaria,2023-08-14,2023,August,toddler
+287,nigeria,rural,20,male,1.76,38,partially immunized,normal,other,2023-01-21,2023,January,toddler
+288,brazil,urban,51,male,2.91,38,partially immunized,moderate malnutrition,pneumonia,2023-07-12,2023,July,child
+289,kenya,urban,28,female,2.76,33,partially immunized,moderate malnutrition,malaria,2023-07-21,2023,July,toddler
+290,bangladesh,urban,40,female,3.65,36,not immunized,normal,pneumonia,2023-07-18,2023,July,child
+291,bangladesh,rural,15,male,2.59,40,fully immunized,severe malnutrition,diarrhea,2023-03-21,2023,March,toddler
+292,brazil,rural,48,female,2.78,24,fully immunized,severe malnutrition,malaria,2023-08-15,2023,August,child
+293,india,rural,30,female,2.11,20,not immunized,normal,malaria,2023-09-15,2023,September,toddler
+294,kenya,urban,14,male,3.79,19,not immunized,moderate malnutrition,malaria,2023-11-04,2023,November,toddler
+295,nigeria,rural,55,male,3.81,34,fully immunized,severe malnutrition,prematurity,2023-11-26,2023,November,child
+296,brazil,urban,15,female,3.11,24,partially immunized,normal,other,2023-02-03,2023,February,toddler
+297,india,urban,59,female,3.35,20,partially immunized,severe malnutrition,prematurity,2023-08-07,2023,August,child
+298,nigeria,rural,32,male,1.99,26,fully immunized,normal,other,2023-10-24,2023,October,toddler
+299,india,rural,40,female,1.78,35,fully immunized,moderate malnutrition,diarrhea,2023-02-17,2023,February,child
+300,nigeria,rural,52,male,2.75,19,not immunized,severe malnutrition,other,2023-03-20,2023,March,child
